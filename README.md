@@ -6,11 +6,11 @@ A sample Android application built to demonstrate the use of Modern Android deve
 This repository contains a sample app that implements MVVM architecture using Kotlin, Dagger,
 Retrofit, Coroutines, Flow, StateFlow, and etc.
 <p align="center">
-  <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/1058c537-e81b-4e40-9608-9e9ff278d894">
+   <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/27620c87-6140-42df-82d2-eeda32fdcd4a">
 </p>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/MVVM-Architecture-Android/master/assets/mvvm-arch.png">
+    <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/1058c537-e81b-4e40-9608-9e9ff278d894">
 </p>
 <br>
 <p align="center">
@@ -59,5 +59,5 @@ Retrofit, Coroutines, Flow, StateFlow, and etc.
   <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/3e797719-e66d-4184-92fc-6317429b6bd7">
 </p>
 
+Just make pull request. You are in!"
 
-Just make pull request. You are in!
