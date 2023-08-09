@@ -10,7 +10,7 @@ Retrofit, Coroutines, Flow, StateFlow, and etc.
 </p>
 <br>
 <p align="center">
-    <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/1058c537-e81b-4e40-9608-9e9ff278d894">
+    <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/1b9e23d4-1562-4ba1-8ca8-2d834e7a8687">
 </p>
 <br>
 <p align="center">
@@ -58,6 +58,7 @@ Retrofit, Coroutines, Flow, StateFlow, and etc.
 <p align="center">
   <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/3e797719-e66d-4184-92fc-6317429b6bd7">
 </p>
+
 
 Just make pull request. You are in!"
 
