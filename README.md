@@ -55,7 +55,9 @@ Retrofit, Coroutines, Flow, StateFlow, and etc.
 - Flow API in Kotlin
 - Learn Kotlin Topics
 
-![Screenshot_1691562627](https://github.com/karthikrao19/CurrencyExchange/assets/3007975/3e797719-e66d-4184-92fc-6317429b6bd7)
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/amitshekhariitbhu/MVVM-Architecture-Android/master/assets/banner-mvvm-arch-beginners.jpg](https://github.com/karthikrao19/CurrencyExchange/assets/3007975/3e797719-e66d-4184-92fc-6317429b6bd7)">
+</p>
 
 
 Just make pull request. You are in!
