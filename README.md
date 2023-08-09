@@ -14,7 +14,7 @@ Retrofit, Coroutines, Flow, StateFlow, and etc.
 </p>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/MVVM-Architecture-Android/master/assets/project-structure-mvvm.png">
+  <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/4d893e0b-fa7d-4e48-b265-375646204703">
 </p>
 <br>
 <br>
@@ -58,6 +58,7 @@ Retrofit, Coroutines, Flow, StateFlow, and etc.
 <p align="center">
   <img src="https://github.com/karthikrao19/CurrencyExchange/assets/3007975/3e797719-e66d-4184-92fc-6317429b6bd7">
 </p>
+
 
 
 Just make pull request. You are in!"
